@@ -1,56 +1,55 @@
 Country;Region
-Algeria; Northern Africa
-Angola; Central Africa
-Benin; Western Africa
-Botswana; Southern Africa
-Burkina Faso; Western Africa
-Burundi; Eastern Africa
-Cameroon; Central Africa
-Cape Verde; Western Africa
-Central African Republic; Central Africa
-Chad; Central Africa
-Comoros; Eastern Africa
-DR Congo; Central Africa
-Djibouti; Eastern Africa
-Egypt; Northern Africa
-Equatorial Guinea; Central Africa
-Eritrea; Eastern Africa
-Eswatini; Southern Africa
-Ethiopia; Eastern Africa
-Gabon; Central Africa
-Gambia; Western Africa
-Ghana; Western Africa
-Guinea; Western Africa
-Guinea-Bissau; Western Africa
-Ivory Coast; Western Africa
-Kenya; Eastern Africa
-Lesotho; Southern Africa
-Liberia; Western Africa
-Libya; Northern Africa
-Madagascar; Eastern Africa
-Malawi; Eastern Africa
-Mali; Western Africa
-Mauritania; Northern Africa
-Mauritius; Eastern Africa
-Morocco; Northern Africa
-Mozambique; Eastern Africa
-Namibia; Southern Africa
-Niger; Western Africa
-Nigeria; Western Africa
-Congo; Central Africa
-Rwanda; Eastern Africa
-Sao Tome and Principe; Central Africa
-Senegal; Western Africa
-Seychelles; Eastern Africa
-Sierra Leone; Western Africa
-Somalia; Eastern Africa
-South Africa; Southern Africa
-South Sudan; Eastern Africa
-Sudan; Northern Africa
-Tanzania; Eastern Africa
-Togo; Western Africa
-Tunisia; Northern Africa
-Uganda; Eastern Africa
-Western Sahara; Northern Africa
-Zambia; Eastern Africa
-Zimbabwe; Eastern Africa
+Algeria;UNAF
+Angola;COSAFA
+Benin;UFOA
+Botswana;COSAFA
+Burkina Faso;UFOA
+Burundi;CECAFA
+Cameroon;UNIFFAC
+Cape Verde;UFOA
+Central African Republic;UNIFFAC
+Chad;UNIFFAC
+Comoros;COSAFA
+DR Congo;UNIFFAC
+Djibouti;CECAFA
+Egypt;UNAF
+Equatorial Guinea;UNIFFAC
+Eritrea;CECAFA
+Eswatini;COSAFA
+Ethiopia;CECAFA
+Gabon;UNIFFAC
+Gambia;UFOA
+Ghana;UFOA
+Guinea;UFOA
+Guinea-Bissau;UFOA
+Ivory Coast;UFOA
+Kenya;CECAFA
+Lesotho;COSAFA
+Liberia;UFOA
+Libya;UNAF
+Madagascar;COSAFA
+Malawi;COSAFA
+Mali;UFOA
+Mauritania;UFOA
+Mauritius;COSAFA
+Morocco;UNAF
+Mozambique;COSAFA
+Namibia;COSAFA
+Niger;UFOA
+Nigeria;UFOA
+Congo;UNIFFAC
+Rwanda;CECAFA
+Sao Tome and Principe;UNIFFAC
+Senegal;UFOA
+Seychelles;COSAFA
+Sierra Leone;UFOA
+Somalia;CECAFA
+South Africa;COSAFA
+South Sudan;CECAFA
+Sudan;CECAFA
+Tanzania;CECAFA
+Togo;UFOA
+Tunisia;UNAF
+Uganda;CECAFA
+Zambia;COSAFA
+Zimbabwe;COSAFA
